@@ -1,7 +1,6 @@
 # py-thanos
 
-If you are too lazy to run these three commands to delete your virtual environment when you have screwed package installations, then py-thanos will help you erase all the packages in your virtual environent and start afresh.
-
+PyThanos helps to erase the installed dependencies of a broken virtual environment. Instead of deleting the virtual environment, PyThanos wlll delete all the installed dependencies and reinstall them according to requirements.txt file
 
 ## Installation
 
